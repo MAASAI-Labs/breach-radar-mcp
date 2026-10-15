@@ -1,5 +1,8 @@
 # Breach Radar (MCP server)
 
+**Live MCP URL (Streamable HTTP):** `https://breach-radar-mcp.vercel.app/mcp`  
+Health check: `https://breach-radar-mcp.vercel.app/health`
+
 Breach Radar is security intelligence for Grok Bot (or any MCP client):
 
 - **Have I Been Pwned**: the breach catalogue, breaches of a company/domain, email checks (with an optional API key), and **Pwned Passwords** via k-anonymity.
